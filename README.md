@@ -32,3 +32,4 @@ int main()
     return 0;
 }
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0377fac46c764fc2a4d48d2ba6ccc4d0)](https://www.codacy.com/app/soundraju/project1?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soundraju/project1&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/soundraju/hellotravis.svg?branch=master)](https://travis-ci.org/soundraju/hellotravis)
